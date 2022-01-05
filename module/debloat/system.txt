@@ -43,8 +43,6 @@ data-app/MIUIYoupin
 data-app/ThirdAppAssistant
 data-app/VirtualSim
 data-app/MIUICleanMaster
-app/SogouInput
-app/MIUISecurityInputMethod
 app/mab
 app/YouDaoEngine
 app/AiAsstVision
